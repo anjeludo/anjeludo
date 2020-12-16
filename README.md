@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ![anjeludo's github stats](https://github-readme-stats.vercel.app/api?username=anjeludo&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo)](https://github.com/anjeludo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo&layout=compact&theme=cobalt)](https://github.com/anjeludo/github-readme-stats)
+
