@@ -9,6 +9,10 @@ About Me:
 - 👯 I’m looking to collaborate on any interesting open source project
 - 💬 Ask me about Spring, clean code, refactoring...
 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/anjeludo/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjeludo/)](https://www.linkedin.com/in/anjeludo/) 
+![Github Badge](https://img.shields.io/badge/-anjeludo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/anjeludo/)](https://www.github.com/anjeludo/) 
+[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/anjeludo-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/anjeludo/)](https://www.twitter.com/https://twitter.com/anjeludo/) 
+
 
 
 ![anjeludo's github stats](https://github-readme-stats.vercel.app/api?username=anjeludo&show_icons=true&theme=cobalt)
