@@ -15,7 +15,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/anjeludo-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/anjeludo/)](https://twitter.com/anjeludo/) 
 
 
-
 ![anjeludo's github stats](https://github-readme-stats.vercel.app/api?username=anjeludo&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo&layout=compact&theme=cobalt)](https://github.com/anjeludo/github-readme-stats)
