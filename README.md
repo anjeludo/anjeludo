@@ -15,7 +15,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/anjeludo-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/anjeludo/)](https://twitter.com/anjeludo/) 
 
 
-![anjeludo's github stats](https://github-readme-stats.vercel.app/api?username=anjeludo&show_icons=true&theme=cobalt)
+## 📈 My Stats: <a href="https://github.com/anjeludo"> <img src="https://komarev.com/ghpvc/?username=anjeludo&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo&layout=compact&theme=cobalt)](https://github.com/anjeludo/github-readme-stats)
+<p align="center">
+<a href="https://github.com/anjeludo">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjeludo&show_icons=true&theme=cobalt" /></a>
+<a href="https://github.com/estefafdez/">
+  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo&layout=compact&theme=cobalt" /></a>
+<p>&nbsp;</p>
 
