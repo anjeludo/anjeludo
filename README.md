@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://github.com/anjeludo">
   <img src="https://github-readme-stats.vercel.app/api?username=anjeludo&show_icons=true&theme=cobalt" /></a>
-<a href="https://github.com/estefafdez/">
+<a href="https://github.com/anjeludo/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo&layout=compact&theme=cobalt" /></a>
 <p>&nbsp;</p>
 
