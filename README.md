@@ -21,6 +21,8 @@
 <a href="https://github.com/anjeludo">
   <img src="https://github-readme-stats.vercel.app/api?username=anjeludo&show_icons=true&theme=cobalt" /></a>
 <a href="https://github.com/anjeludo/">
-  <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo&layout=compact&theme=cobalt" /></a>
+  <!--<img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjeludo&layout=compact&theme=cobalt" /></a>-->
+  <img width = "40%"src="https://streak-stats.demolab.com/?user=anjeludo&theme=radical" /></a>
+  
 <p>&nbsp;</p>
 
